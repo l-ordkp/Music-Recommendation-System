@@ -26,6 +26,6 @@ Data Preprocessing and Feature Engineering: Encodes categorical variables (artis
 
 Recommendation Algorithm and User Interface: Implements the core recommendation functionality. It defines functions to find similar songs based on user input (artist or genre) and provides an interactive command-line interface for user interaction.
 
-Contributing
+**Contributing**
 
 Contributions are encouraged! Feel free to contribute by opening issues or submitting pull requests if you encounter issues or have ideas for improvements.
